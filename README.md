@@ -8,7 +8,7 @@
 
 ### Linked list
 - https://en.wikipedia.org/wiki/Doubly_linked_list
-- 
+
 ### Red-black tree
 - https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
 - https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
