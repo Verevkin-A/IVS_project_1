@@ -1,5 +1,4 @@
-# IVS-project-1 (VUT FIT 2020/2021)
-## Praktické aspekty vývoje software: Projekt 1 – Testování
+# List of used tools:
 
 - [Google Test](https://chromium.googlesource.com/external/github.com/pwnall/googletest/+/refs/tags/release-1.8.0/googletest/docs/Primer.md)
 - [CMake](https://cmake.org/documentation/)
